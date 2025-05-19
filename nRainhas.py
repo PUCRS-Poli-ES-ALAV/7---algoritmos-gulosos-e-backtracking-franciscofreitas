@@ -42,5 +42,5 @@ def n_rainhas(n):
         print("Não há solução para", n, "rainhas.")
 
 # Exemplo de uso
-n = 8
+n = 40
 n_rainhas(n)
